@@ -26,7 +26,9 @@
    ![](https://github.com/sengngykouch/KeyboardBind-Mac/blob/main/ReadMe-Support-Assets/Karabiner-Elements-setup.gif)
    
 #### 2. Set up Hammerspoon
-   1. Choose **Open Config** from the [Hammerspoon](http://www.hammerspoon.org/) app on the menu bar
+   1. Choose **Open Config** from the [Hammerspoon](http://www.hammerspoon.org/) app on the menu bar.
+   ![](https://github.com/sengngykouch/KeyboardBind-Mac/blob/main/ReadMe-Support-Assets/HammerSpoon-Open-Config.gif)
+   
    2. Copy and replace all the content with [init.lua](https://github.com/sengngykouch/KeyboardBind-Mac/blob/main/init.lua) file. Or from below here:
       ```lua
       local module = {}
@@ -119,6 +121,8 @@
       ```
    3. Save.
    4. Then **Reload Config**.
+   
+   ![](https://github.com/sengngykouch/KeyboardBind-Mac/blob/main/ReadMe-Support-Assets/HammerSpoon-Reload.gif)
    
 ## Usage
 ![alt text](https://github.com/sengngykouch/keyboardBind/blob/master/vortex-poker3-62uk_zpskowcfdjx.jpg "Key binds")  
